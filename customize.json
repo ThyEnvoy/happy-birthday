@@ -1,24 +1,3 @@
 {
-  "greeting": "Hola",
-  "name": "Litta",
-  "greetingText": "(nombre peculiar por cierto)",
-  "wishText": "Espero que la hayas pasado muy bien \uD83D\uDE09",
-  "imagePath": "img/Litta2.png",
-  "image2Path": "img/Litta.png",
-  "text1": "Es tu cumpleaños!!! \uD83D\uDE00",
-  "textInChatBox": "Feliz cumpleaños a ti!!! mucha suerte blah blah...",
-  "sendButtonLabel": "Enviar",
-  "text2": "Eso fue lo que pense",
-  "text3": "Pero entonces pare",
-  "text4": "Y decidi que queria hacer algo especial",
-  "text4Adjective": "Especial",
-  "text5Entry": "Porque....",
-  "text5Content": "Bueno, solo queria hacer algo",
-  "smiley": "\uD83D\uDE01",
-  "bigTextPart1": "ASI",
-  "bigTextPart2": "QUE",
-  "wishHeading": "FELIZ CUMPLEAÑOS!",
-  "outroText": "OKEY, ahora si, espero que le haya gustado",
-  "replayText": "O haz click aca para mirarlo otra vez.",
-  "outroSmiley": "\uD83D\uDE0A"
+
 }
